@@ -12,7 +12,7 @@
 
 ### 📘 About Me:
 - 🌱 I’m currently diving deep into **Machine Learning** and **Artificial Intelligence**
-- 💬 Let's talk about **Data Visualization**, **Predictive Modeling**, and **Automation**
+- 💬 Let's talk about **Machine Learning**, **Predictive Modeling**, and **AI**
 - 📫 Reach out to me at: **kaustubhk144@iitkgp.ac.in**
 - ⚡ Fun fact: **I believe in the power of data to unlock new opportunities and insights**
 
