@@ -42,11 +42,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcubeiitkgp&layout=compact&theme=synthwave" alt="Languages" width="400">
 </p>
 
-### 🌐 Socials:
-<p align="center">
-  <!-- Already added LinkedIn above, add any other platforms you use -->
-  <a href="https://instagram.com/kcubeiitkgp" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kcubeiitkgp Instagram"/></a>
-  <!-- Add more social platforms as needed -->
-</p>
 
 ### 🎉 Let's Connect and Innovate Together!
